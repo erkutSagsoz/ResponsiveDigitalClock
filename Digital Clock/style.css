@@ -13,7 +13,7 @@ body {
   align-items: center;
 }
 
-p {
+div {
   color: black;
   font-size: 75px;
   background: rgb(195, 144, 34);
@@ -40,6 +40,6 @@ p {
       font-size: 25px;
     }
 }
-span:hover {
+p:hover {
     cursor: pointer;
 }
